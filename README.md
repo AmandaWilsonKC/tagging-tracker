@@ -22,6 +22,7 @@ The CRT Graffiti Abatement Pilot Project area will stretch from 18th Street to 3
 CRT members posing in front a mural at 35th and Prospect. In the photo: neighborhood leaders from Wendell Phillips Neighborhood, Washington Wheatley Neighborhood, and Oak Park Neighborhood; County Prosecutor's Office; LISC; Emmanuel Child Development; KCPD; and Councilman Quinton Lucas.
 
 ## Approach / Roadmap:
+1st release: App is able to take pictures of graffiti, store pictures based on address, recall data by address in order to edit at a later date, data entry of graffiti attributes for each location, web portal login to be able to download spreadsheet with data, low-tech feature where only admin can download spreadsheet of all incidents of graffiti, only one or two admins. 
 
 
 ## Team:
