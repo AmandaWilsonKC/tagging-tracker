@@ -24,6 +24,10 @@ CRT members posing in front a mural at 35th and Prospect. In the photo: neighbor
 ## Approach / Roadmap:
 
 
+Phase #2 - Upload Owner Waiver inside app so owner can read, review, and approve our team to abate graffiti on their property; be able to pull query of tags or locations that need owner follow up; be able to pull query of tags or locations that need attribute fields completed (if only partially completed)
+
+Phase #3 - android capability
+
 ## Team:
 * Amanda Wilson
 * Jake LaCombe
